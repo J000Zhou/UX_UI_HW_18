@@ -199,3 +199,8 @@ p {
     background-color: #C2663D;
     margin-top: 6%;
 }
+
+@font-face {
+    font-family: 'gopher';
+    src: url("fonts/Gopher-Black.otf") format("opentype");
+}
