@@ -39,6 +39,7 @@ nav {
     font-family: gopher, sans-serif;
     font-size:24px;
     font-weight: bold;
+    text-align: end;
 }
 
 nav button { 
@@ -46,8 +47,8 @@ nav button {
     width: 20%;
     height: 72px;
     padding-left:30%;
-    float: right;
 } 
+
 
 p {
     font-size:24px;
@@ -62,10 +63,6 @@ p {
     vertical-align:top;
     padding: 1%;
     margin-top: 2%;
-}
-
-.navbar {
-    width: 50%;
 }
 
 .logo {
